@@ -77,7 +77,7 @@
           </div>
           <div class="info">
             <div class="role">项目负责人</div>
-            <div class="name">徐正坤</div>
+            <div class="name">Z. Pang, x. Xu</div>
             <div class="desc">
               北京邮电大学人工智能学院 智能医学工程专业。负责 BESS 系统架构全栈开发、核心算法模型复现与多模态数据融合优化。
             </div>
@@ -90,7 +90,7 @@
           </div>
           <div class="info">
             <div class="role">指导教师</div>
-            <div class="name">侯瑞</div>
+            <div class="name">Dr. Hou</div>
             <div class="desc">
               北京邮电大学预聘副教授 / 硕、博导。主要研究方向为医学图像智能分析与多模态大模型融合。为本项目提供医学影像大模型构建、跨模态语义理解及可解释性评估的理论指导与支持。
             </div>
